@@ -1,0 +1,23 @@
+title            : sqlwhat training
+instructors      :
+ - filip.schouwenaars@gmail.com
+collaborators    :
+  - amy@datacamp.com
+  - shon@datacamp.com
+  - yashas@datacamp.com
+  - sumedh@datacamp.com
+  - becca@datacamp.com
+  - david.campos@datacamp.com
+  - adrian@datacamp.com
+  - martijn@datacamp.com
+  - hadrien@datacamp.com
+  - ben.feder@datacamp.com
+  - eunkyung@datacamp.com
+  - kaelen@datacamp.com
+  - richie@datacamp.com
+description      : sqlwhat training
+university       : DataCamp
+difficulty_level : 2
+time_needed      : 1 hour
+from             : "postgresql-base-prod:v1.0.0"
+programming_language  : 'sql'
